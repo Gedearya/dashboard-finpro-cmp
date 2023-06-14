@@ -2,7 +2,7 @@
 Example Dashboard for Final Project
 
 ## Deploy
-https://finpro-cmp-example.netlify.app/dashboard/home
+https://finpro-cmp-example.netlify.app/
 
 ## Srource Material Tailwind
 https://www.material-tailwind.com/
